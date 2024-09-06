@@ -11,3 +11,10 @@ use sql_store;
 -- from customers;
 
 select distinct state from customers;
+
+
+select * from customers
+limit 5;
+
+
+
