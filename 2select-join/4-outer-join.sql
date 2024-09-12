@@ -17,3 +17,13 @@ select * from
 orders o
 right join customers c
 using(customer_id);
+
+-- uzdevums
+-- atlasīt produktus un pasūtījuma vienības
+-- tā, lai tiktu atlasīti visi produkti
+-- arī tādi, kuri nav pasūtīti
+
+select * from
+products p
+left join order_items oi
+using (product_id)
