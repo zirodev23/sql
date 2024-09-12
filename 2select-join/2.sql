@@ -25,6 +25,7 @@ JOIN customers c
 	USING (customer_id);
     
 -- kreisajā pusē paņemt customers
+use sql_store;
 SELECT 
     o.order_id,
     c.customer_id,
