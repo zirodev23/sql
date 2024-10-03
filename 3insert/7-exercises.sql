@@ -1,0 +1,10 @@
+-- Jāizmanto SQL komandas nevis GUI
+-- 1.uzdevums
+-- Izveido jaunu klientu sql_store datubāzē.
+-- 2. uzdevums
+-- Izveido trīs sūtījumus jaunizveidotajam klientam.
+-- 3.uzdevums
+-- Maini izveidotā klienta vārdu uz kādu citu
+-- , piem., ‘Jānis’.
+-- 4.uzdevums
+-- Izdzēs gan klientu, gan tā sūtījumus.
